@@ -23,8 +23,6 @@ I'm always learning, improving my skills, and working on projects that turn idea
 
 ## 🛠️ Technologies & Tools
 
-*Add the languages and tools you actually use.*
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
